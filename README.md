@@ -1,6 +1,5 @@
 # networking-labs
 Hands-on networking labs, configurations, troubleshooting exercises, and projects documenting my Cloud Computing AEC journey at Montreal College of IT.
-
 This repository documents my hands-on learning in networking fundamentals as part of my Networking and Technical Support — Cloud Computing AEC at Montreal College of Information Technology (MCIT).
 
 ## Topics
